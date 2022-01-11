@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713928726221",
+    "project_id": "restru-414ae",
+    "storage_bucket": "restru-414ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713928726221:android:92a69ac563c1de6512bb84",
+        "android_client_info": {
+          "package_name": "com.example.resturante_de_tante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713928726221-407pmhfp7ht0l8l04t7dl11g69vq8t3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIu9DB1ip9SKX2hqfFVyWDc-W6JXuxyNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713928726221-407pmhfp7ht0l8l04t7dl11g69vq8t3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

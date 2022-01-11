@@ -1,0 +1,4 @@
+#Sun Jan 09 23:50:55 CET 2022
+base.0=D\:\\development\\Ready\\rapidito_application\\resturantedetante-flutter\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
