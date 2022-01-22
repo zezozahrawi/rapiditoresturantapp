@@ -1,7 +1,3 @@
-resturante_de_tante
-2.12
-file:///D:/development/Ready/rapidito_application/resturantedetante-flutter/
-file:///D:/development/Ready/rapidito_application/resturantedetante-flutter/lib/
 async
 2.12
 file:///D:/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.8.1/
@@ -202,4 +198,8 @@ flutter_web_plugins
 2.12
 file:///D:/flutter/packages/flutter_web_plugins/
 file:///D:/flutter/packages/flutter_web_plugins/lib/
+resturante_de_tante
+2.12
+file:///D:/rapi/rapiditoresturantapp/
+file:///D:/rapi/rapiditoresturantapp/lib/
 2

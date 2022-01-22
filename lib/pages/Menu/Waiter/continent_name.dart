@@ -34,8 +34,7 @@ class ContinentName extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-
-    //its responsble to watch the cart 
+    //its responsble to watch the cart
     MyProvider cart = context.watch<MyProvider>();
 
     return Scaffold(

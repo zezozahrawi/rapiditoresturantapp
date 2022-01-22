@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\development\\Ready\\rapidito_application\\resturantedetante-flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "D:\\rapi\\rapiditoresturantapp\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "D:\\development\\Ready\\rapidito_application\\resturantedetante-flutter\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "D:\\rapi\\rapiditoresturantapp\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
